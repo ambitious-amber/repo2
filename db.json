@@ -1,11 +1,31 @@
 {
-  "posts": [
+	"calldetails": [
+  
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+			"id":"1",
+			"callid": "dc553d46-8392-11ec-9a6c-dd0572ba3eae",
+			"businessid": "21265",
+			"calldate": "2022-02-01 19:12:13",
+			"fromnumber": "+Call Call 14697333222 14697333222 14697333222",
+			"disposition": "not disposed",
+			"fname": "Amber",
+			"lname": "J",
+			"calleridName": "Amber J",
+			"email": "amber+21265@kixie.com",
+			"destinationName": "Direct Dial",
+			"HScalltype": "powerlistsessionid",
+			"crmlink": "https://app.hubspot.com/contacts/6283166/contact/1640851/",
+			"contactid": "1640851",
+			"webhookurl": "https://hooks.zapier.com/hooks/catch/190894/b55bd23/",
+			"outcome": "crm",
+			"hookevent": "endcall",
+			"number": "+Call Call 14697333222 14697333222 14697333222",
+			"customernumber": "+Call Call 14697333222 14697333222 14697333222",
+			"businessnumber": "+Call Call 14245128681 14245128681 14245128681"  
+		}
+
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
